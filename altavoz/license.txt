@@ -1,0 +1,11 @@
+Model Information:
+* title:	Altavoz
+* source:	https://sketchfab.com/3d-models/altavoz-d9df72e189204901aa3c3834d35020ad
+* author:	ekaitzloyola (https://sketchfab.com/ekaitzloyola)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Altavoz" (https://sketchfab.com/3d-models/altavoz-d9df72e189204901aa3c3834d35020ad) by ekaitzloyola (https://sketchfab.com/ekaitzloyola) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
