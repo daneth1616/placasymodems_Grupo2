@@ -1,0 +1,11 @@
+Model Information:
+* title:	Discos duros
+* source:	https://sketchfab.com/3d-models/discos-duros-e9e6ad9cbadb4896a9a179a405838f36
+* author:	Proxecto cREAgal (https://sketchfab.com/proxecto_creagal)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Discos duros" (https://sketchfab.com/3d-models/discos-duros-e9e6ad9cbadb4896a9a179a405838f36) by Proxecto cREAgal (https://sketchfab.com/proxecto_creagal) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
