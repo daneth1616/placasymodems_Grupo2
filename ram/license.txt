@@ -1,0 +1,11 @@
+Model Information:
+* title:	RAM
+* source:	https://sketchfab.com/3d-models/ram-1379b59cd62743daaa8d896aed37da63
+* author:	satriyo (https://sketchfab.com/satriyo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "RAM" (https://sketchfab.com/3d-models/ram-1379b59cd62743daaa8d896aed37da63) by satriyo (https://sketchfab.com/satriyo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
