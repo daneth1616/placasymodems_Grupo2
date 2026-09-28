@@ -1,0 +1,11 @@
+Model Information:
+* title:	Floppy disk 3.5
+* source:	https://sketchfab.com/3d-models/floppy-disk-35-ad25affb3aa143a0a9c95b651ce32844
+* author:	GmedranoTIC (https://sketchfab.com/gmedranotic)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Floppy disk 3.5" (https://sketchfab.com/3d-models/floppy-disk-35-ad25affb3aa143a0a9c95b651ce32844) by GmedranoTIC (https://sketchfab.com/gmedranotic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
