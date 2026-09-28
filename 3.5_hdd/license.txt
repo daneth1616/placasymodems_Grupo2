@@ -1,0 +1,11 @@
+Model Information:
+* title:	3.5" HDD
+* source:	https://sketchfab.com/3d-models/35-hdd-8063b935c95e467f835f922190edff73
+* author:	jaggelidakis (https://sketchfab.com/jaggelidakis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3.5" HDD" (https://sketchfab.com/3d-models/35-hdd-8063b935c95e467f835f922190edff73) by jaggelidakis (https://sketchfab.com/jaggelidakis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
